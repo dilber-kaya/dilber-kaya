@@ -1,16 +1,16 @@
-### Hi there 👋
+# 💫 About Me:
+Hello, my name is Dilber and I am a full-stack developer with 2 years of experience in building web applications. I am passionate about creating high-quality software that solves real-world problems and provides value to users.<br><br>As a full-stack developer, I have experience working with both front-end and back-end technologies. On the front-end, I am proficient in HTML, CSS, and JavaScript, and have worked with popular frameworks such as React. On the back-end, I have experience working with Node.js and C#  and have used frameworks such as Express, MVC, and Core. <br><br>Also, I am familiar with OOP and relational databases (MS-SQL). I am currently working on Node.js, JavaScript, and MongoDB.<br><br>In addition to my technical skills, I am also experienced in Agile development methodologies and have strong communication, collaboration, and problem-solving skills. I am a quick learner and enjoy staying up-to-date with the latest technologies and best practices in the industry.<br><br>On GitHub, I showcase my work through well-documented and organized repositories that highlight my coding skills and projects. I use GitHub to collaborate with others, contribute to open-source projects, and showcase my portfolio to potential employers and clients.<br><br>Thank you for taking the time to read my introduction. Please feel free to explore my GitHub profile and get in touch if you have any questions or opportunities for collaboration.
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dilber-kaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dilber-kaya&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dilber-kaya&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!--
-**dilber-kaya/dilber-kaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dilber-kaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-Here are some ideas to get you started:
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=dilber-kaya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
