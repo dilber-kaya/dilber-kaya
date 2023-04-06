@@ -10,7 +10,5 @@ Hello, my name is Dilber and I am a full-stack developer with 2 years of experie
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dilber-kaya&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dilber-kaya&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
