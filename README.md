@@ -1,18 +1,18 @@
 # Hey, I'm Dilber 👋
 
-**Software Developer · Backend Development · AI-Assisted Development**
+**Software Developer · Backend Development**
 
 I'm a software developer based in Istanbul, Türkiye, interested in building thoughtful software and creating engaging digital experiences.
 
-I enjoy combining technical problem-solving with creativity, exploring AI-assisted development workflows, and continuously improving my development skills.
+I enjoy combining technical problem-solving with creativity and continuously improving my development skills.
 
 ### ✨ Featured Work
 
 **Dilber's Little World**
 
-An interactive pixel-art portfolio where code, animation, and exploration come together. Built with **Claude Code**, exploring AI-assisted development through a creative, interactive web experience.
+An interactive pixel-art portfolio where code, animation, and exploration come together. Developed with Claude Code, this project combines creative design with an interactive web experience.
 
-[Explore the experience →]((https://dilber-kaya.github.io/portfolio/))
+[Explore the experience →](https://dilber-kaya.github.io/portfolio/)
 
 ### 🛠️ Technologies & Tools
 
