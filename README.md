@@ -12,7 +12,7 @@ I enjoy combining technical problem-solving with creativity, exploring AI-assist
 
 An interactive pixel-art portfolio where code, animation, and exploration come together. Built with **Claude Code**, exploring AI-assisted development through a creative, interactive web experience.
 
-[Explore the experience →](https://dilber-kaya.github.io/)
+[Explore the experience →]((https://dilber-kaya.github.io/portfolio/))
 
 ### 🛠️ Technologies & Tools
 
