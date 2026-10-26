@@ -1,4 +1,4 @@
-# Hey, I'm Dilber! 👋🌷
+# Hey, I'm Dilber! 👋🌸
 
 ### Software Developer
 
